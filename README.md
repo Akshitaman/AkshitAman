@@ -1,4 +1,5 @@
 # 💫 About Me:
+They/Them
 ## About Me 🧑‍💻<br><br>* **1st Year CSE (IoT Focus):** Excited about the future of connected devices. 
 💡🔗<br>* **Web Dev in Progress:** Currently building and learning web technologies. 
 🌐🛠️<br>* **Skilled in C ⚙️, C++ 🚀, and Python 🐍:
