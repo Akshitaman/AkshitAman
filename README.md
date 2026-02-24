@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,05010a,30,1a0b2e,70,311b92,100,05010a&height=300&section=header&text=Hi%20I'm%20Akshit%20👋&fontSize=80&fontColor=ffffff&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,30:48cae4,55:2ec4b6,75:80ed99,100:00b4d8&height=300&section=header&text=Hi%20I'm%20Akshit%20👋&fontSize=80&fontColor=ffffff&fontAlignY=40" width="100%" />
+</div>
 
   <br />
 
@@ -7,6 +8,7 @@
     <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-boy.gif" width="300" />
   </div>
 </div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;Full+Stack+Enthusiast&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=00D2FF&deleteSpeed=500" alt="MERN Stack Developer Typing SVG">
